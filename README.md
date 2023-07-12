@@ -1,2 +1,3 @@
-# recastx-pyclient
+# recastx-pygui
+
 Python GUI client for RECAST-X
